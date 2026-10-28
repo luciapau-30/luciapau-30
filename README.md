@@ -14,7 +14,7 @@ I love a good challenge, and enjoy surfing, snowboarding, running (even though I
 | --- | --- | --- |
 | [**Piece of Mind**](https://github.com/luciapau-30/menu-assistant) | Upload a photo of a restaurant menu and get a compatibility report against your allergies, medical restrictions and nutrition goals. Layered FastAPI backend with JWT auth, DB migrations, an LLM vision extraction pipeline, deterministic scoring, a test suite and an evaluation harness. Built because I have celiac disease. | Python · FastAPI · PostgreSQL · SQLAlchemy · Groq |
 | [**Carpoolz**](https://github.com/luciapau-30/carpoolz) | Pitched to and used by USC Ski & Snowboard. A rule-based matching algorithm assigns about 50 riders to outbound and return cars each weekend based on time overlap and capacity, with a change-request workflow and a realtime organizer dashboard. | React · Supabase · PostgreSQL |
-| [**SmartPantry**](https://github.com/luciapau-30/smartpantry) | Six-person team project. I wrote the recommendation engine that ranks recipes by pantry coverage and preferences, plus much of the backend, and was the top contributor. Includes background jobs and WebSocket expiry alerts. | Java · Servlets · MySQL · WebSockets |
+| [**SmartPantry**](https://github.com/luciapau-30/smartpantry_) | Six-person team project. I wrote the recommendation engine that ranks recipes by pantry coverage and preferences, plus much of the backend, and was the top contributor. Includes background jobs and WebSocket expiry alerts. | Java · Servlets · MySQL · WebSockets |
 
 ## Experience
 
