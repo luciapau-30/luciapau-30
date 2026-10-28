@@ -31,4 +31,4 @@ I love a good challenge, and enjoy surfing, snowboarding, running (even though I
 
 ## Find me
 
-[Portfolio](https://luciapau-30.github.io/personal-portfolio/) · [LinkedIn](https://linkedin.com/in/lucia-paulino) · [Email](mailto:luciapaulino2024@gmail.com)
+[Portfolio](https://luciapau-30.github.io/personal-portfolio/) · [LinkedIn](www.linkedin.com/in/lucía-paulino-43571a304) · [Email](mailto:luciapaulino2024@gmail.com)
